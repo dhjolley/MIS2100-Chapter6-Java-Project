@@ -8,4 +8,8 @@ public class SimpleMath {
 		double result = Numerator/Denominator;
 		return result;
 	}
+	public double multiply(double Numerator, double Denominator) {
+		double result = Numerator*Denominator;
+		return result;
+	}
 }
